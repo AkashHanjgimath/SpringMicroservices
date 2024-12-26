@@ -2,11 +2,15 @@
 **It showcases core microservices concepts such as:**
 
 Service Discovery: Using Eureka Server for dynamic registration and discovery of services.
+
 API Gateway: Centralized routing and request handling with Spring Cloud Gateway.
+
 Configuration Management: Externalized configuration management using Spring Cloud Config Server.
+
 Inter-Service Communication: Leveraging REST APIs for communication between services.
-Load Balancing: Implementing load balancing with Ribbon.
+
 Distributed Tracing: Integrated with Zipkin for tracing requests across services.
+
 Scalability and Modularity: Breaking down applications into smaller, independent services for better scalability.
 
 
