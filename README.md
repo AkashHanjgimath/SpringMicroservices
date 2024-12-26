@@ -1,5 +1,6 @@
 
 **It showcases core microservices concepts such as:**
+
 Service Discovery: Using Eureka Server for dynamic registration and discovery of services.
 API Gateway: Centralized routing and request handling with Spring Cloud Gateway.
 Configuration Management: Externalized configuration management using Spring Cloud Config Server.
@@ -10,6 +11,7 @@ Scalability and Modularity: Breaking down applications into smaller, independent
 
 
 **Modules Included**
+
 Service Registry: Built with Eureka for managing and locating microservices.
 API Gateway: Routes and secures traffic between clients and backend microservices.
 Config Server: Centralized management of configuration properties for all microservices.
@@ -20,6 +22,7 @@ Postgres Integration: Persistent data storage using PostgreSQL.
 
 
 **Technologies Used**
+
 * Java
 * Spring Boot
 * Spring Cloud
