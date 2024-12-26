@@ -1,4 +1,5 @@
 This repository contains a collection of projects and modules demonstrating the implementation of Spring Boot Microservices Architecture.
+
 **It showcases core microservices concepts such as:**
 Service Discovery: Using Eureka Server for dynamic registration and discovery of services.
 API Gateway: Centralized routing and request handling with Spring Cloud Gateway.
